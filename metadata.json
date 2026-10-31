@@ -1,0 +1,6 @@
+{
+  "name": "LEOVANDYZ AI — Asisten AI Publik Multifungsi & Cerdas",
+  "description": "Asisten AI modern multifungsi bertenaga Google Gemini tanpa login dengan 8 tema visual, riwayat lokal IndexedDB, studio koding, studio gambar, dan analisis dokumen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
